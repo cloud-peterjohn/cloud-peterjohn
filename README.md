@@ -15,7 +15,8 @@
 
 ## 💡 Project
 
-- [111]() !!!
+- [EDNAG]([https://arxiv.org/abs/2504.17827](https://github.com/cloud-peterjohn/EDNAG)): Neural Architecture Generation by [Evolutionary-Guided Diffusion Models](https://arxiv.org/abs/2504.17827).
+- 
 
 ## 🚀 Skills
 
