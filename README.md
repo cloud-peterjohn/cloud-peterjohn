@@ -10,7 +10,7 @@
 ## 💡 Projects
 
 - 😇 [EDNAG](https://github.com/cloud-peterjohn/EDNAG): Neural Architecture Generation by [Evolutionary-Guided Diffusion Models](https://arxiv.org/abs/2504.17827), with Experiments on NAS-Bench-101, NAS-Bench-201, NAS-Bench-301, TransNASBench-101, and MobileNetV3.
-- 🤩 [SCU ACM OJ](https://github.com/cloud-peterjohn/SCU-ACM-OJ.git): An Online Judge System designed for School-Level ACM Competitions, with 3 Roles (User, Admin, Super-Admin).
+- 🤩 [SCU ACM OJ](https://github.com/cloud-peterjohn/SCU-ACM-OJ.git): An Online Judge System designed for School-Level [ACM](https://icpc.global/) Competitions, with 3 Roles (User, Admin, Super-Admin).
 - 🥰 [Taipei Trees](https://github.com/cloud-peterjohn/Taipei_Trees.git): Detection and Counting Stand-by Trees with Aerial Images in [Taipei](https://www.gov.taipei/) & [New Taipei](https://www.ntpc.gov.tw/ch/index.jsp) City.
 - 🤣 [Counting Sea Lions](https://github.com/cloud-peterjohn/Counting-Sea-Lions.git): Solution of [NOAA Fisheries Steller Sea Lion Population Count](https://www.kaggle.com/c/noaa-fisheries-steller-sea-lion-population-count) Competition in Kaggle.
 - 😋 [Acceleration of LLM](): Comprehensive Acceleration of Llama-3.2-3B-Instruct with GPTQ-Quantization, VLLM, KV-Cache Quantization, Speculative Decoding, and Flash Attention.
