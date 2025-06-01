@@ -7,7 +7,7 @@
 ## 👀 Homepage Visits
 ![Visitor Count](https://profile-counter.glitch.me/cloud-zhoubingye/count.svg)
 
-## 💡 Project
+## 💡 Projects
 
 - 😇 [EDNAG]([https://arxiv.org/abs/2504.17827](https://github.com/cloud-peterjohn/EDNAG)): Neural Architecture Generation by [Evolutionary-Guided Diffusion Models](https://arxiv.org/abs/2504.17827), with Experiments on NAS-Bench-101, NAS-Bench-201, NAS-Bench-301, TransNASBench-101, and MobileNetV3.
 - 🤩 [SCU ACM OJ](https://github.com/cloud-peterjohn/SCU-ACM-OJ.git): An Online Judge System designed for School-Level ACM Competitions, with 3 Roles (User, Admin, Super-Admin).
