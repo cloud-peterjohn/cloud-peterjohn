@@ -4,10 +4,6 @@
 
 ### My Contribution Heatmap
 ![](https://github.com/cloud-zhoubingye/cloud-zhoubingye/blob/output/github-contribution-grid-snake.svg)
-### My Github Status Card
-[![ZBY's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloud-peterjohn&show_icons=true&theme=merko)]()
-### Homepage Visits
-![Visitor Count](https://profile-counter.glitch.me/cloud-zhoubingye/count.svg)
 ### Common Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-peterjohn&layout=compact&theme=tokyonight)
 ### Activities
@@ -17,6 +13,8 @@
 
 - 😇 [EDNAG]([https://arxiv.org/abs/2504.17827](https://github.com/cloud-peterjohn/EDNAG)): Neural Architecture Generation by [Evolutionary-Guided Diffusion Models](https://arxiv.org/abs/2504.17827).
 - 🤩 [SCU-ACM-OJ](https://github.com/cloud-peterjohn/SCU-ACM-OJ.git): An Online Judge System designed for School-Level ACM Competitions.
+- 🥰 [Taipei-Trees](): Detection and Counting Stand-by Trees with Aerial Images in Taipei & New Taipei City.
+- 🤣 [Counting-Sea-Lions](): Cou
 
 ## 🚀 Skills
 
@@ -44,3 +42,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+### My Github Status Card
+[![ZBY's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloud-peterjohn&show_icons=true&theme=merko)]()
+### Homepage Visits
+![Visitor Count](https://profile-counter.glitch.me/cloud-zhoubingye/count.svg)
