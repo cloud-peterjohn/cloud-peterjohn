@@ -4,10 +4,9 @@
 
 ### My Contribution Heatmap
 ![](https://github.com/cloud-zhoubingye/cloud-zhoubingye/blob/output/github-contribution-grid-snake.svg)
-### Common Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-peterjohn&layout=compact&theme=tokyonight)
-### Activities
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cloud-peterjohn&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)]()
+
+### Homepage Visits
+![Visitor Count](https://profile-counter.glitch.me/cloud-zhoubingye/count.svg)
 
 ## 💡 Project
 
@@ -20,10 +19,11 @@
 - 😝 [Network Anomaly Detection](https://github.com/cloud-peterjohn/Network_Anomaly_Detection.git): Subspace and Deep Feature Network Fusion for Outlier Detection in High-Dimensional Network Scenarios.
 - 
 
+### Common Programming Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-peterjohn&layout=compact&theme=tokyonight)
+
 ## 🚀 Skills
-
-📋 Languages/Packages/Tools:
-
+📋 Languages/Packages/Tools:   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,5 +48,6 @@
 
 ### My Github Status Card
 [![ZBY's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloud-peterjohn&show_icons=true&theme=merko)]()
-### Homepage Visits
-![Visitor Count](https://profile-counter.glitch.me/cloud-zhoubingye/count.svg)
+
+### Activities
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cloud-peterjohn&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)]()
