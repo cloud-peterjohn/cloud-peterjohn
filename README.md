@@ -15,8 +15,8 @@
 
 ## 💡 Project
 
-- [EDNAG]([https://arxiv.org/abs/2504.17827](https://github.com/cloud-peterjohn/EDNAG)): Neural Architecture Generation by [Evolutionary-Guided Diffusion Models](https://arxiv.org/abs/2504.17827).
-- 
+- 😇 [EDNAG]([https://arxiv.org/abs/2504.17827](https://github.com/cloud-peterjohn/EDNAG)): Neural Architecture Generation by [Evolutionary-Guided Diffusion Models](https://arxiv.org/abs/2504.17827).
+- 🤩 [SCU-ACM-OJ](https://github.com/cloud-peterjohn/SCU-ACM-OJ.git): An Online Judge System designed for School-Level ACM Competitions.
 
 ## 🚀 Skills
 
