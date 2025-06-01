@@ -1,5 +1,4 @@
-<h1 align="center">Hi👋, this is Peter John! ᓚᘏᗢ</h1>
-:blush::smile::laughing::relaxed::smiley::smirk::heart_eyes::kissing_heart::kissing_closed_eyes::flushed::relieved::satisfied::grin::wink::stuck_out_tongue_winking_eye::stuck_out_tongue_closed_eyes::grinning::kissing::kissing_smiling_eyes::stuck_out_tongue::sleeping::worried::frowning::anguished::open_mouth::grimacing::confused::hushed::expressionless::unamused::sweat_smile::sweat::disappointed_relieved::weary::pensive::disappointed::confounded::fearful::cold_sweat::persevere::cry::sob::joy::astonished::scream::tired_face::angry::rage::triumph::sleepy::yum::mask::sunglasses::dizzy_face::imp::smiling_imp::neutral_face::no_mouth::innocent:
+<h1 align="center">Hi👋, this is Peter John! 🥺 ᓚᘏᗢ</h1>
 
 
 ## 🌏 My Contribution Heatmap
@@ -15,7 +14,7 @@
 - 🥰 [Taipei Trees](https://github.com/cloud-peterjohn/Taipei_Trees.git): Detection and Counting Stand-by Trees with Aerial Images in Taipei & New Taipei City.
 - 🤣 [Counting Sea Lions](https://github.com/cloud-peterjohn/Counting-Sea-Lions.git): Solution of [NOAA Fisheries Steller Sea Lion Population Count](https://www.kaggle.com/c/noaa-fisheries-steller-sea-lion-population-count) Competition in Kaggle.
 - 😋 [Acceleration of LLM](): Comprehensive Acceleration of Llama-3.2-3B-Instruct with GPTQ-Quantization, VLLM, KV-Cache Quantization, Speculative Decoding, and Flash Attention.
-- 🥺 [Deploy LLM on Edge Deivce](): Deploy Llama-3.2-3B-Instruct with MLC-LLM on NVIDIA-RTX-3050 with Over 50+ Throughput.
+- 🥳 [Deploy LLM on Edge Deivce](): Deploy Llama-3.2-3B-Instruct with MLC-LLM on NVIDIA-RTX-3050 with Over 50+ Throughput.
 - 😝 [Network Anomaly Detection](https://github.com/cloud-peterjohn/Network_Anomaly_Detection.git): Subspace and Deep Feature Network Fusion for Outlier Detection in High-Dimensional Network Scenarios.
 - 
 
