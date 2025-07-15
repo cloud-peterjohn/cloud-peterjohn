@@ -6,7 +6,7 @@ My personal homepage: [https://cloud-peterjohn.github.io](https://cloud-peterjoh
 ![](https://github.com/cloud-zhoubingye/cloud-zhoubingye/blob/output/github-contribution-grid-snake.svg)
 
 ## 👀 Homepage Visits
-![Visitor Count](https://profile-counter.glitch.me/cloud-zhoubingye/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=cloud-peterjohn&style=flat-square)
 
 ## 💡 Projects
 
